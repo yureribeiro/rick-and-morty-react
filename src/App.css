@@ -1,0 +1,32 @@
+.main {
+  width: 100%;
+}
+
+.contentTitle {
+  display: grid;
+  place-items: center;
+  background-color: #fff;
+  height: 20rem;
+}
+
+.titleMain {
+  font-size: 6rem;
+  text-align: center;
+}
+
+.footer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #4f4f4f;
+  padding: 3rem;
+  color: #ffff;
+}
+
+.footer a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #ffff;
+  margin-left: .5rem;
+}
